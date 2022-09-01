@@ -1,0 +1,3 @@
+# TINYPESA-WORDPRESS-WOOCOOMERCE
+
+Enble Lipa na M-PESA till payment
